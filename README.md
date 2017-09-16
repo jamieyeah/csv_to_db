@@ -1,4 +1,4 @@
-# refine_csv_data
+# csv_to_db
 
 
 Refining csv files before putting the data into the database.
